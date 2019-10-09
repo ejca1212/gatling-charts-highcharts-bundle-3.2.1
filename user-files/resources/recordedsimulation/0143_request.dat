@@ -1,0 +1,38 @@
+------WebKitFormBoundaryguRsJmDDYGfhrmMI
+Content-Disposition: form-data; name="info"
+
+{"stats":{"stats_init_n":1,"timing":{"nav_start":1570309286757,"page_load_ms":492,"win_load_ms":924,"script_load_ms":1773.779999999988,"connect_ms":0,"dns_ms":0,"duration_ms":13.605000000012524,"redirect_ms":0,"response_ms":7.7799999999967895,"response_end_ms":1707.684999999998,"init_ms":66.09499999999002,"small_connect_ms":0,"small_dns_ms":0,"small_duration_ms":136.1050000000148,"small_redirect_ms":0,"small_response_ms":0.4250000000070031,"small_response_end_ms":618.5399999999959,"small_init_ms":1155.239999999992,"full_connect_ms":0,"full_dns_ms":0,"full_duration_ms":13.605000000012524,"full_redirect_ms":0,"full_response_ms":7.7799999999967895,"full_response_end_ms":1707.684999999998,"full_init_ms":66.09499999999002,"config_connect_ms":0,"config_dns_ms":0,"config_duration_ms":9.03500000001145,"config_redirect_ms":0,"config_response_ms":3.6400000000185173,"config_response_end_ms":1703.6200000000008,"config_init_ms":70.15999999998712},"links":{"stats_init_n":1,"first_scan_ms":8,"scan_n":14,"get_n":17,"nat_size_missing":64,"nat_size_small":4,"found_links_n":18,"found_n":1,"get_links_info_n":1,"get_links_info_url_n":18,"first_sent_info_req_ms":27,"get_db_n":6,"first_resp_info_req_ms":386,"scan_ms":5.861781529017857,"get_links_info_ms":986.949951171875},"preview":{"stats_init_n":1,"preview_n":17,"preview_mapped_n":17,"first_ready_from_cache_ms":77,"first_ready_ms":77,"map_cache_use_n":17,"can_play_muted_n":1,"first_ready_from_web_ms":423},"position_memory":{"stats_init_n":1},"history":{"stats_init_n":1}},"spark_zone":"news_sky_com","customer":"sky_uk","dashboard":";type=unknown","url":"https://news.sky.com/","frame":false,"location_url":"https://news.sky.com/","page_url":"https://news.sky.com/","site":"news.sky.com","referrer":"","referrer_type":"none","is_embed":false,"is_touch":false,"support_fullscreen":true,"connection":{},"session_id":"session_id_0.34664005708909307","tag":{"id":844,"date":"2019-10-02T10:40:55.300Z"}}
+------WebKitFormBoundaryguRsJmDDYGfhrmMI
+Content-Disposition: form-data; name="bt"
+
+undefined
+------WebKitFormBoundaryguRsJmDDYGfhrmMI
+Content-Disposition: form-data; name="filehead"
+
+no log requested
+------WebKitFormBoundaryguRsJmDDYGfhrmMI
+Content-Disposition: form-data; name="session_id"
+
+session_id_0.34664005708909307
+------WebKitFormBoundaryguRsJmDDYGfhrmMI
+Content-Disposition: form-data; name="is_json"
+
+1
+------WebKitFormBoundaryguRsJmDDYGfhrmMI
+Content-Disposition: form-data; name="ver"
+
+1.156.101
+------WebKitFormBoundaryguRsJmDDYGfhrmMI
+Content-Disposition: form-data; name="build"
+
+platform: Win32
+user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+ver: 1.156.101
+browser: chrome 77
+browser_build: undefined
+guess: {"os":"windows","version":"10.0","release_version":"10.0","arch":"64","mobile":false}
+------WebKitFormBoundaryguRsJmDDYGfhrmMI
+Content-Disposition: form-data; name="send_type"
+
+BEACON
+------WebKitFormBoundaryguRsJmDDYGfhrmMI--
